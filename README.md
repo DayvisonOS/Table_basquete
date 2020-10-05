@@ -1,4 +1,4 @@
-# Table_basquete_proway
+# Table_basquete
 Projeto do Teste prático da etapa 4 do programa de treinamento da Publica Proway 
 
 # Abrindo o Projeto
